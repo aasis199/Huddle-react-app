@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:100,200,400,700|Poppins:400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+h1{
+    font-weight: 700 !important;
+    font-family: 'Poppins',sans-serif;
+
+}
+p{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200 !important;
+}
+body{
+    overflow-x: hidden;
+    background-image: url('https://fervent-mayer-36e64f.netlify.app/huddle-landing-page/images/bg-hero-desktop.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top 0;
+}
